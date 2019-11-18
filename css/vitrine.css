@@ -2,3 +2,9 @@
   background: url('https://images.pexels.com/photos/2760343/pexels-photo-2760343.jpeg?cs=srgb&dl=artisan-danger-dark-2760343.jpg&fm=jpg') center center;
   background-size:cover;
 }
+
+#map {
+  width: 100%;
+  height: 400px;
+  background-color: grey;
+}
